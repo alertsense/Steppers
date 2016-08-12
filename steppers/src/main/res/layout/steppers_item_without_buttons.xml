@@ -28,7 +28,7 @@
             android:layout_width="1dp"
             android:layout_height="match_parent"
             android:layout_marginTop="@dimen/item_line_first_margin"
-            android:background="@color/circle_color_default_gray" />
+            android:background="@android:color/black" />
 
     </LinearLayout>
     <!--        android:layout_marginTop="@dimen/item_text_margin_top"
